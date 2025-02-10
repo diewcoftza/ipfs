@@ -3,7 +3,7 @@ import json
 
 NAME = "Penguin Pixie Genesis"
 DESC = "A tiny girl with blue eyes and her penguin pals, waking up to the soft morning glow in the polar frost."
-FROM_ID = 1
+FROM_ID = 0
 SUPPLY = 888
 IMG_IPFS = "https://diewcoftza.github.io/ipfs/penguin-pixie-genesis/asset.png"
 VID_IPFS = "https://diewcoftza.github.io/ipfs/penguin-pixie-genesis/asset.mp4"
